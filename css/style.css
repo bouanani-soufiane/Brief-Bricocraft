@@ -571,6 +571,12 @@ a:focus {
   color: #0355cc;
 }
 
+.services-text{
+  font-size: 20px !important;
+  margin-left: 1px;
+}
+
+
 .client_section .heading_container {
   -webkit-box-align: center;
       -ms-flex-align: center;
