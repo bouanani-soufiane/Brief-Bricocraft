@@ -25,3 +25,8 @@ Page Contact : Formulaire pour les requêtes et les commentaires des visiteurs.
 Implémenter d'autres pages ou fonctionnalités de votre choix pour améliorer l'expérience utilisateur.
 Appliquer une animation ou une transition CSS pour améliorer l'aspect visuel du site.
 Personnaliser le thème général du site en modifiant les images, les icônes et le contenu.
+
+
+
+
+site is live at https://bouanani-soufiane.github.io/Brief-Bricocraft/
