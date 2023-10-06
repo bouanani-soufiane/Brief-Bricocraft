@@ -888,6 +888,7 @@ a:focus {
   margin: 30px 0;
 }
 .about-us h1{
+  margin-top: -20px;
   color: #fff;
   font-size: 150px;
   line-height: 340px;
