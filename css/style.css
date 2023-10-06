@@ -724,7 +724,6 @@ a:focus {
 .contact_section button:hover {
   background-color: transparent;
   color: #0355cc;
-  width: 300px;
 }
 
 .contact_section .map_container {
